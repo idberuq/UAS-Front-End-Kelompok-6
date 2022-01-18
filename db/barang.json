@@ -1,0 +1,25 @@
+{
+  "barang": [
+    {
+      "title": "jeans",
+      "harga": "2000",
+      "kategori": "jeans",
+      "stok": "20",
+      "id": 1
+    },
+    {
+      "title": "jeans",
+      "harga": "2000",
+      "kategori": "jeans",
+      "stok": "20",
+      "id": 2
+    },
+    {
+      "title": "baju2",
+      "harga": "440",
+      "kategori": "jbj",
+      "stok": "40",
+      "id": 3
+    }
+  ]
+}
